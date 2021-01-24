@@ -56,7 +56,7 @@ Forms use checkboxes on multiple answers.
 ```html
 <label for="loving"><input id="loving" type="checkbox" name="personality"> Loving</label>
 ```
-`for` attribute of `label` must be the same with the `id` attribute of checkbox input for best practices. 
+`for` attribute of `label` must be the same with the `id` attribute of `checkbox` input for best practices. 
 
 ### Checkbox and Radio Similarity
 ```html
